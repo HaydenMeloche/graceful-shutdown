@@ -55,7 +55,7 @@ For Maven:
 <dependency>
   <groupId>dev.hayden</groupId>
   <artifactId>graceful-shutdown</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
 </dependency>
 ```
 
@@ -69,7 +69,7 @@ allprojects {
 ```
 ```groovy
 dependencies {
-  implementation 'dev.hayden:graceful-shutdown:1.0.0'
+  implementation 'dev.hayden:graceful-shutdown:1.0.1'
 }
 ```
 
